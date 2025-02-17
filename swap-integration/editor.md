@@ -12,6 +12,12 @@ description: >-
 [mosaic-api.yaml](../.gitbook/assets/mosaic-api.yaml)
 {% endswagger %}
 
+{% swagger src="../.gitbook/assets/mosaic-api.yaml" path="/v1/tokens" method="get" %}
+[mosaic-api.yaml](../.gitbook/assets/mosaic-api.yaml)
+{% endswagger %}
+
+
+
 ## Setup Authentication
 
 {% hint style="info" %}
@@ -132,4 +138,4 @@ console.log(
 ```
 
 _By following this guide, you will be able to integrate the Mosaic Aggregator API for performing token swaps on the Aptos network. For further assistance or inquiries, feel free to reach out to the Mosaic support team on_ [_Discord_](https://discord.gg/mosaicagg) _or_ [_Telegram_](http://t.me/mosaicaggchat)_._\
-\
+\\
