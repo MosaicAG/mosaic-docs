@@ -18,7 +18,7 @@ Mosaic operates with no default protocol fees. However, integration partners hav
 | **Limit Order** | TBD                 | TBD     |
 
 {% hint style="info" %}
-### [**Note: API Key Requirement**](editor.md)
+### [**Note: API Key Requirement**](api.md)
 
 To access Mosaic APIs, integration partners must obtain an API key provided by the Mosaic team. Please reach out to us via Discord or email us directly at **huy@mosaic.ag** for assistance and further details.
 {% endhint %}
@@ -27,4 +27,4 @@ To access Mosaic APIs, integration partners must obtain an API key provided by t
 
 For partners opting to use the Fee Claimer feature, fees can be claimed through the **Mosaic Fee Claim Portal**. Fees will be credited to the wallet address specified in the API call under the `partnerAddress` parameter.
 
-_For more information about API parameters setup, please refer to the_ [_Mosaic Swap Integration API_](editor.md)
+_For more information about API parameters setup, please refer to the_ [_Mosaic Swap Integration API_](api.md)

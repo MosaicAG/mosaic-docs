@@ -10,7 +10,7 @@
 
 ## Swap Integration
 
-* [API](swap-integration/editor.md)
+* [API](swap-integration/api.md)
 * [Swap Widget](swap-integration/swap-widget.md)
 * [Iframe](swap-integration/iframe.md)
 * [Typescript SDK](swap-integration/markdown.md)
