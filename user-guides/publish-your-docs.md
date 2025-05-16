@@ -106,12 +106,10 @@ Mosaic exposes its router and swap logic via verified smart contracts. Integrato
 * Call router contracts with custom token pairs
 * Use routing contracts as backend swap engines in their own interfaces
 
-Full contract documentation and SDKs available \[here].
-
 ***
 
 #### Conclusion
 
 Mosaic is the trading backbone of the Movement DeFi stack. Whether you're a trader, builder, or liquidity protocol, Mosaic enables efficient, composable, and trustless trade execution — unlocking the full potential of the Movement ecosystem.
 
-For API keys, SDK usage, and integration support, contact the Mosaic team or visit the developer portal \[link].
+For API keys, SDK usage, and integration support, contact the Mosaic team or visit [the developer portal](../swap-integration/api.md).
