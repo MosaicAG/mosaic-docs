@@ -5,9 +5,11 @@
 ## User Guides
 
 * [New to Movement? Install your wallet](user-guides/quickstart.md)
-* [Swap](user-guides/publish-your-docs.md)
-* [Liquidity Protocol](user-guides/liquidity-protocol.md)
-* [Supported DEXs on Movement](user-guides/supported-dexs-on-movement.md)
+
+## PRODUCTS
+
+* [Swap](products/publish-your-docs.md)
+* [Liquidity Protocol](products/liquidity-protocol.md)
 
 ## Swap Integration
 
