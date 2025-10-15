@@ -1,6 +1,6 @@
 # Protocol Fees
 
-Starting on Oct 15, swaps on Mosaic include a tiny protocol fee. The fee is set by the Mosaic aggregator and is tiered by pair type. Fees can be taken from either the input token (“token in”) or the output token (“token out”), depending on the route.
+Starting on Oct 15, 2025, swaps on Mosaic include a tiny protocol fee. The fee is set by the Mosaic aggregator and is tiered by pair type. Fees can be taken from either the input token (“token in”) or the output token (“token out”), depending on the route.
 
 ### What changes
 
