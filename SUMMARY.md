@@ -19,6 +19,14 @@
 * [Typescript SDK](swap-integration/markdown.md)
 * [Integration Partners](swap-integration/integration-partners.md)
 
+***
+
+* [Page](page.md)
+
+## Protocol Fees
+
+* [Protocol Fees](protocol-fees/protocol-fees.md)
+
 ## SECURITY AND LICENSE
 
 * [Audits](security-and-license/audits.md)
