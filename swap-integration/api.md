@@ -8,20 +8,20 @@ description: >-
 
 ## Swagger <a href="#swagger" id="swagger"></a>
 
-{% swagger src="../.gitbook/assets/mosaic-api.yaml" path="/v1/quote" method="get" %}
+{% openapi src="../.gitbook/assets/mosaic-api.yaml" path="/v1/quote" method="get" %}
 [mosaic-api.yaml](../.gitbook/assets/mosaic-api.yaml)
-{% endswagger %}
+{% endopenapi %}
 
-{% swagger src="../.gitbook/assets/mosaic-api.yaml" path="/v1/tokens" method="get" %}
+{% openapi src="../.gitbook/assets/mosaic-api.yaml" path="/v1/tokens" method="get" %}
 [mosaic-api.yaml](../.gitbook/assets/mosaic-api.yaml)
-{% endswagger %}
+{% endopenapi %}
 
 
 
 ## Setup Authentication
 
 {% hint style="info" %}
-**All requests to Mosaic’s API must include an `X-API-Key` header for authentication. The API key is used to track your usage and ensure secure access. To obtain an API key, please contact the Mosaic team via** [_**Discord**_](https://discord.gg/mosaicagg) _**or**_ [_**Telegram**_](http://t.me/mosaicaggchat) _**or**_ [_**Email**_](https://app.gitbook.com/u/wFeDG3R5KaeybOt5PaquEpON6pM2)
+**All requests to Mosaic’s API must include an `X-API-Key` header for authentication. The API key is used to track your usage and ensure secure access. To obtain an API key, please contact the Mosaic team via** [_**Discord**_](https://discord.gg/mosaicagg) _**or**_ [_**Telegram**_](http://t.me/mosaicaggchat)_**.**_
 {% endhint %}
 
 ## Get quote
